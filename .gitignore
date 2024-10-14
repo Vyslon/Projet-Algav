@@ -1,0 +1,22 @@
+# Fichiers générés par Python
+*.pyc
+__pycache__/
+
+# Fichiers de configuration de PyCharm
+.idea/
+
+# Fichiers de dépendances et de build
+venv/  # Environnement virtuel Python
+*.env  # Fichiers d'environnement
+*.egg-info/
+dist/
+build/
+
+# Fichiers de cache
+*.log
+*.sqlite3
+
+# Fichiers de sauvegarde ou temporaires
+*.bak
+*~
+

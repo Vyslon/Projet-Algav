@@ -1,0 +1,4 @@
+1.1) On fait des listes de 4 liste, chacune des liste possède 32 éléments booléen, on représente donc un
+entier de façon binaire qu'on étale sur 4 * 32 booléen soit 128 bits.
+On peut aller que jusqu'à 2^127
+
